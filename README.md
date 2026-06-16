@@ -1,6 +1,6 @@
 # C++ Portfolio — Irfana Aslam
 
-![Build](https://github.com/irfanaaslam3/CPlusPlus-portfolio/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/IrfanaAslam/CPlusPlus-portfolio/actions/workflows/build.yml/badge.svg)
 
 A structured collection of C++ programs spanning core language fundamentals, object-oriented design, the STL, classic data structures and algorithms, mini console projects, and small research-oriented utilities. Built while strengthening core CS fundamentals alongside research and Python work.
 
