@@ -1,0 +1,26 @@
+/*
+Program: Function Overloading
+Concepts: overloading, default arguments
+Author: Irfana Aslam
+*/
+#include <iostream>
+using namespace std;
+
+int add(int a, int b) { return a + b; }
+double add(double a, double b) { return a + b; }
+int add(int a, int b, int c) { return a + b + c; }
+
+void greet(string name = "Guest") {
+    cout << "Hello, " << name << "!" << endl;
+}
+
+int main() {
+    cout << add(2, 3) << endl;
+    cout << add(2.5, 3.1) << endl;
+    cout << add(1, 2, 3) << endl;
+
+    greet();
+    greet("Irfana");
+
+    return 0;
+}

@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+
+# Build directories
+build/
+bin/
+
+# Generated sample data from demo programs
+*.csv
+
+# IDE / OS files
+.vs/
+.vscode/
+*.suo
+.DS_Store
